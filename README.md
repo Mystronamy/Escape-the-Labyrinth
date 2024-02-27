@@ -1,4 +1,5 @@
 Trapped in a Labyrinth - How to Escape
+
 You have been trapped in a labyrinth, and your only hope to escape is to cast the magic spell that will free you from its walls. To do so, you will need to explore the labyrinth to find three magical items:
 
 The Spellbook (📕), which contains the spell that must be cast in order to escape.
